@@ -48,26 +48,7 @@
     },
     "abo_version_module": [],
     "abo_version_capabilities": [],
-    "abo_import_statement": [
-        {
-            "import_statement_id": "104",
-            "user_id": "1",
-            "app_id": "75",
-            "version_id": "271",
-            "import_statement": "import java.util.scanner; ",
-            "created": "2026-06-30 17:17:58",
-            "updated": "2026-06-30 17:17:58"
-        },
-        {
-            "import_statement_id": "105",
-            "user_id": "1",
-            "app_id": "75",
-            "version_id": "271",
-            "import_statement": "dfgdfg; ",
-            "created": "2026-06-30 19:16:23",
-            "updated": "2026-06-30 19:16:23"
-        }
-    ],
+    "abo_import_statement": [],
     "abo_maven_dependency": [
         {
             "maven_id": "64",
