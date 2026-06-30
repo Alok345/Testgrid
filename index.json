@@ -61,7 +61,17 @@
             "capabilities_keyvalue": "dsfsdf"
         }
     ],
-    "abo_import_statement": [],
+    "abo_import_statement": [
+        {
+            "import_statement_id": "110",
+            "user_id": "1",
+            "app_id": "75",
+            "version_id": "274",
+            "import_statement": "sdfsdf; ",
+            "created": "2026-07-01 05:13:51",
+            "updated": "2026-07-01 05:13:51"
+        }
+    ],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
     "abo_global_variable": [],
