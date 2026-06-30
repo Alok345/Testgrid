@@ -1,8 +1,8 @@
 {
     "status": true,
     "message": "Version data loaded successfully.",
-    "version_id": "256",
-    "user_id": "1",
+    "version_id": 256,
+    "user_id": 1,
     "abo_version": {
         "version_id": "256",
         "app_id": "75",
@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-06-30 16:53:01",
+            "view_updated_date_time": "2026-06-30 16:57:48",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -110,9 +110,34 @@
             "version_id": "256",
             "capabilities_keyname": "sa",
             "capabilities_keyvalue": "sass"
+        },
+        {
+            "capabilities_id": "85",
+            "version_id": "256",
+            "capabilities_keyname": "asa",
+            "capabilities_keyvalue": "asa"
         }
     ],
-    "abo_import_statement": [],
+    "abo_import_statement": [
+        {
+            "import_statement_id": "102",
+            "user_id": "1",
+            "app_id": "75",
+            "version_id": "256",
+            "import_statement": "dsfdsfsf; dsfsdf; ",
+            "created": "2026-06-30 16:59:06",
+            "updated": "2026-06-30 16:59:06"
+        },
+        {
+            "import_statement_id": "103",
+            "user_id": "1",
+            "app_id": "75",
+            "version_id": "256",
+            "import_statement": "dsfsdf; ",
+            "created": "2026-06-30 16:59:06",
+            "updated": "2026-06-30 16:59:06"
+        }
+    ],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
     "abo_global_variable": [],
