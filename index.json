@@ -104,6 +104,12 @@
             "version_id": "256",
             "capabilities_keyname": "dsff",
             "capabilities_keyvalue": "dsfsdf"
+        },
+        {
+            "capabilities_id": "84",
+            "version_id": "256",
+            "capabilities_keyname": "sa",
+            "capabilities_keyvalue": "sas"
         }
     ],
     "abo_import_statement": [],
