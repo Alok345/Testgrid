@@ -17,7 +17,7 @@
         "xray_project_version": null,
         "restore_id": "0",
         "is_git_enabled": "1",
-        "git_restore_id": "14"
+        "git_restore_id": "17"
     },
     "app_id": "75",
     "platform": "3",
@@ -53,15 +53,15 @@
             "parent_id": "0",
             "module_name": "TS0004",
             "module_description": "git restore history testsuite",
-            "count_resource": "3",
+            "count_resource": "1",
             "cm_resource_pages": "",
-            "cm_default_resource": "3492,3493,3494",
+            "cm_default_resource": "3492",
             "cm_test_function": "485",
-            "cm_test_case": "1279,1280",
+            "cm_test_case": "1279",
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-06-30 20:07:31",
+            "view_updated_date_time": "2026-06-30 19:38:36",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -92,28 +92,6 @@
                     "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/75/272/650/testcases/tc001.java"
-                },
-                {
-                    "tc_id": "1280",
-                    "version_module_id": "650",
-                    "tc_name": "TC0004",
-                    "tc_description": "",
-                    "tc_website_url": null,
-                    "it_json": "",
-                    "cm_step_list": "164",
-                    "is_compiled": "0",
-                    "xray_type_of_issue_id": null,
-                    "xray_type_of_issue_key": null,
-                    "is_deleted": "0000-00-00 00:00:00",
-                    "is_auto": "0",
-                    "is_ai_generated": "0",
-                    "is_draft": "0",
-                    "updated_at": "2026-06-30 20:01:05",
-                    "created_at": "2026-06-30 20:01:05",
-                    "qtest_skip_sync": "0",
-                    "test_case_tags": [],
-                    "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/75/272/650/testcases/tc0004.java"
                 }
             ],
             "abo_version_proc": [
@@ -211,15 +189,6 @@
                     "version_module_id": "650",
                     "description": "",
                     "action_process": "add_test_case"
-                },
-                {
-                    "id": "1925",
-                    "user_id": "1",
-                    "app_id": "75",
-                    "version_id": "272",
-                    "version_module_id": "650",
-                    "description": "",
-                    "action_process": "edit_test_case"
                 }
             ],
             "abo_vm_test_story_manual": [],
@@ -227,7 +196,7 @@
                 {
                     "version_page_id": 0,
                     "version_module_id": "650",
-                    "cm_resource": "3492,3493,3494",
+                    "cm_resource": "3492",
                     "page_name": "Manually Added Resources ",
                     "image_url": "",
                     "abo_version_maps": [
@@ -265,76 +234,6 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/650/3492.png"
-                        },
-                        {
-                            "maps_id": "3493",
-                            "version_page_id": "0",
-                            "page_name": "",
-                            "version_module_id": "650",
-                            "element_name": "ele_ghfghf",
-                            "element_display_name": "fghfgh",
-                            "element_image_url": "http://192.168.88.204/s/ele-imgs/650/3493.png",
-                            "element_path_rid": "gfhTGWEBCOMMACssClassTGWEBCOMMA0",
-                            "autoheal_elements": "",
-                            "correct_autoheal_data": null,
-                            "shadow_data": null,
-                            "sibling_selector": null,
-                            "tg_text": null,
-                            "iframe_and_shadow_root_data": null,
-                            "is_iframe_and_shadow_root": "false",
-                            "only_iframe_data": "false",
-                            "only_shadow_root_data": "false",
-                            "web_context_element": "1",
-                            "element_path_rid_ios": "",
-                            "element_xcui_element": "",
-                            "element_displayname": "",
-                            "element_index": "",
-                            "element_parent_element": "",
-                            "element_path_rid_type": "6",
-                            "element_path_rid_ios_type": "",
-                            "d_x": "0",
-                            "d_y": "0",
-                            "d_w": "0",
-                            "d_h": "0",
-                            "restore_maps_id": "3493",
-                            "git_restore_maps_id": "0",
-                            "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/650/3493.png"
-                        },
-                        {
-                            "maps_id": "3494",
-                            "version_page_id": "0",
-                            "page_name": "",
-                            "version_module_id": "650",
-                            "element_name": "ele_fdgdf",
-                            "element_display_name": "fdg",
-                            "element_image_url": "http://192.168.88.204/s/ele-imgs/650/3494.png",
-                            "element_path_rid": "fdgfdTGWEBCOMMACssClassTGWEBCOMMA0",
-                            "autoheal_elements": "",
-                            "correct_autoheal_data": null,
-                            "shadow_data": null,
-                            "sibling_selector": null,
-                            "tg_text": null,
-                            "iframe_and_shadow_root_data": null,
-                            "is_iframe_and_shadow_root": "false",
-                            "only_iframe_data": "false",
-                            "only_shadow_root_data": "false",
-                            "web_context_element": "1",
-                            "element_path_rid_ios": "",
-                            "element_xcui_element": "",
-                            "element_displayname": "",
-                            "element_index": "",
-                            "element_parent_element": "",
-                            "element_path_rid_type": "6",
-                            "element_path_rid_ios_type": "",
-                            "d_x": "0",
-                            "d_y": "0",
-                            "d_w": "0",
-                            "d_h": "0",
-                            "restore_maps_id": "3494",
-                            "git_restore_maps_id": "0",
-                            "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/650/3494.png"
                         }
                     ]
                 }
@@ -347,18 +246,6 @@
             "version_id": "272",
             "capabilities_keyname": "sdfsf",
             "capabilities_keyvalue": "sdfsdf"
-        },
-        {
-            "capabilities_id": "89",
-            "version_id": "272",
-            "capabilities_keyname": "fdgdf",
-            "capabilities_keyvalue": "fdgdfg"
-        },
-        {
-            "capabilities_id": "90",
-            "version_id": "272",
-            "capabilities_keyname": "dfgfd",
-            "capabilities_keyvalue": "gdfg"
         }
     ],
     "abo_import_statement": [
@@ -370,24 +257,6 @@
             "import_statement": "dffdfd; ",
             "created": "2026-06-30 19:41:44",
             "updated": "2026-06-30 19:41:44"
-        },
-        {
-            "import_statement_id": "107",
-            "user_id": "1",
-            "app_id": "75",
-            "version_id": "272",
-            "import_statement": "dfgdfg; ",
-            "created": "2026-06-30 20:02:34",
-            "updated": "2026-06-30 20:02:34"
-        },
-        {
-            "import_statement_id": "108",
-            "user_id": "1",
-            "app_id": "75",
-            "version_id": "272",
-            "import_statement": "dfgfdg; ",
-            "created": "2026-06-30 20:11:49",
-            "updated": "2026-06-30 20:11:49"
         }
     ],
     "abo_maven_dependency": [],
@@ -416,54 +285,6 @@
             "gv_category": "runtime",
             "created": "2026-06-30 19:41:44",
             "updated": "2026-06-30 19:41:44"
-        },
-        {
-            "variable_id": "216",
-            "user_id": "1",
-            "app_id": "75",
-            "version_id": "272",
-            "variable_type": "String",
-            "variable_name": "dfgfdg",
-            "variable_value": "fdgdfg",
-            "gv_category": "global",
-            "created": "2026-06-30 20:02:34",
-            "updated": "2026-06-30 20:02:34"
-        },
-        {
-            "variable_id": "217",
-            "user_id": "1",
-            "app_id": "75",
-            "version_id": "272",
-            "variable_type": "String",
-            "variable_name": "gfhgfh",
-            "variable_value": "gfhfgh",
-            "gv_category": "runtime",
-            "created": "2026-06-30 20:02:34",
-            "updated": "2026-06-30 20:02:34"
-        },
-        {
-            "variable_id": "218",
-            "user_id": "1",
-            "app_id": "75",
-            "version_id": "272",
-            "variable_type": "String",
-            "variable_name": "dfgdfg",
-            "variable_value": "dfgdfg",
-            "gv_category": "global",
-            "created": "2026-06-30 20:11:49",
-            "updated": "2026-06-30 20:11:49"
-        },
-        {
-            "variable_id": "219",
-            "user_id": "1",
-            "app_id": "75",
-            "version_id": "272",
-            "variable_type": "String",
-            "variable_name": "fdgfd",
-            "variable_value": "gfdg",
-            "gv_category": "runtime",
-            "created": "2026-06-30 20:11:49",
-            "updated": "2026-06-30 20:11:49"
         }
     ],
     "ab_scheduler": [],
