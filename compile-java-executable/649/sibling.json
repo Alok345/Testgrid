@@ -29,10 +29,10 @@
                     "locators": "class",
                     "locators_val": "dfsdfTGWEBCOMMA0",
                     "locator_id": "6",
-                    "d_h": 503,
-                    "d_w": 771,
-                    "d_x": 568,
-                    "d_y": 169,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
                     "suggest_name": "dfsdf"
                 }
             ],
@@ -109,10 +109,10 @@
                     "locators": "id",
                     "locators_val": "gfhTGWEBCOMMA0",
                     "locator_id": "7",
-                    "d_h": 257,
-                    "d_w": 1586,
-                    "d_x": 333,
-                    "d_y": 295,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
                     "suggest_name": "gfhgfh"
                 }
             ],
