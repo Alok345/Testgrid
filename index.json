@@ -49,12 +49,6 @@
     "abo_version_module": [],
     "abo_version_capabilities": [
         {
-            "capabilities_id": "86",
-            "version_id": "271",
-            "capabilities_keyname": "isLogin",
-            "capabilities_keyvalue": "true"
-        },
-        {
             "capabilities_id": "87",
             "version_id": "271",
             "capabilities_keyname": "gdf",
