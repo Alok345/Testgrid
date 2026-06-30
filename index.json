@@ -53,6 +53,12 @@
             "version_id": "274",
             "capabilities_keyname": "sdfsd",
             "capabilities_keyvalue": "fsdfsdf"
+        },
+        {
+            "capabilities_id": "93",
+            "version_id": "274",
+            "capabilities_keyname": "dsfdsf",
+            "capabilities_keyvalue": "dsfsdf"
         }
     ],
     "abo_import_statement": [],
