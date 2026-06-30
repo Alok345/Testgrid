@@ -47,14 +47,7 @@
         "updated": "2026-05-16 10:55:52"
     },
     "abo_version_module": [],
-    "abo_version_capabilities": [
-        {
-            "capabilities_id": "87",
-            "version_id": "271",
-            "capabilities_keyname": "gdf",
-            "capabilities_keyvalue": "fdgfd"
-        }
-    ],
+    "abo_version_capabilities": [],
     "abo_import_statement": [
         {
             "import_statement_id": "104",
