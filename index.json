@@ -432,7 +432,7 @@
                 {
                     "version_page_id": "345",
                     "version_module_id": "649",
-                    "cm_resource": "3490",
+                    "cm_resource": "3490,3490",
                     "page_name": "sds",
                     "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/649/main_345.png",
                     "git_restore_page_id": "0",
