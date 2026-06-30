@@ -605,21 +605,7 @@
     ],
     "abo_version_capabilities": [],
     "abo_import_statement": [],
-    "abo_maven_dependency": [
-        {
-            "maven_id": "64",
-            "user_id": "1",
-            "app_id": "75",
-            "version_id": "271",
-            "maven_title": "sql version 8.0.33f",
-            "group_id": "mysql",
-            "artifact_id": "mysql-connector-java",
-            "version": "8.0.33",
-            "maven_dependency": "<dependency>\r\n    <groupId>mysql</groupId>\r\n    <artifactId>mysql-connector-java</artifactId>\r\n    <version>8.0.33</version>\r\n    <scope>compile</scope>\r\n</dependency>",
-            "created": "2026-06-30 22:45:45",
-            "updated": "2026-06-30 19:15:30"
-        }
-    ],
+    "abo_maven_dependency": [],
     "abo_external_jar": [],
     "abo_global_variable": [
         {
