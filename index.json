@@ -74,7 +74,20 @@
     ],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
-    "abo_global_variable": [],
+    "abo_global_variable": [
+        {
+            "variable_id": "222",
+            "user_id": "1",
+            "app_id": "75",
+            "version_id": "274",
+            "variable_type": "String",
+            "variable_name": "sdfdsf",
+            "variable_value": "dsfsdf",
+            "gv_category": "global",
+            "created": "2026-07-01 05:14:02",
+            "updated": "2026-07-01 05:14:02"
+        }
+    ],
     "ab_scheduler": [],
     "domain": "192.168.88.204"
 }
