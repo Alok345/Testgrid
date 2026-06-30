@@ -605,12 +605,6 @@
     ],
     "abo_version_capabilities": [
         {
-            "capabilities_id": "87",
-            "version_id": "271",
-            "capabilities_keyname": "gdf",
-            "capabilities_keyvalue": "fdgfd"
-        },
-        {
             "capabilities_id": "91",
             "version_id": "271",
             "capabilities_keyname": "dsfd",
