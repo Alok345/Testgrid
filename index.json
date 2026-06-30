@@ -53,18 +53,6 @@
     "abo_external_jar": [],
     "abo_global_variable": [
         {
-            "variable_id": "210",
-            "user_id": "1",
-            "app_id": "75",
-            "version_id": "271",
-            "variable_type": "String",
-            "variable_name": "email",
-            "variable_value": "alok@gmail.com",
-            "gv_category": "global",
-            "created": "2026-06-30 17:17:58",
-            "updated": "2026-06-30 17:38:25"
-        },
-        {
             "variable_id": "211",
             "user_id": "1",
             "app_id": "75",
@@ -77,18 +65,6 @@
             "updated": "2026-06-30 17:17:58"
         },
         {
-            "variable_id": "212",
-            "user_id": "1",
-            "app_id": "75",
-            "version_id": "271",
-            "variable_type": "String",
-            "variable_name": "dfgdf",
-            "variable_value": "gfdg",
-            "gv_category": "global",
-            "created": "2026-06-30 19:16:23",
-            "updated": "2026-06-30 19:16:23"
-        },
-        {
             "variable_id": "213",
             "user_id": "1",
             "app_id": "75",
@@ -99,18 +75,6 @@
             "gv_category": "runtime",
             "created": "2026-06-30 19:16:23",
             "updated": "2026-06-30 19:16:23"
-        },
-        {
-            "variable_id": "220",
-            "user_id": "1",
-            "app_id": "75",
-            "version_id": "271",
-            "variable_type": "String",
-            "variable_name": "dsfdsf",
-            "variable_value": "dsfsdf",
-            "gv_category": "global",
-            "created": "2026-06-30 21:36:30",
-            "updated": "2026-06-30 21:36:30"
         },
         {
             "variable_id": "221",
