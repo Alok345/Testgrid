@@ -1,0 +1,84 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_dsfsdf",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "dsfTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 322,
+                    "d_w": 1143,
+                    "d_x": 541,
+                    "d_y": 246,
+                    "suggest_name": "dsfsdf"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id",
+            "image_url": "http://192.168.88.204/s/ele-imgs/649/3488.png"
+        },
+        {
+            "testcase_element": "ele_dfsdf",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "dfsdfTGWEBCOMMA0",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "dfsdf"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": "http://192.168.88.204/s/ele-imgs/649/3489.png"
+        },
+        {
+            "testcase_element": "ele_fdgdfg",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "fdgfdgTGWEBCOMMA0",
+                    "locator_id": "6",
+                    "d_h": 760,
+                    "d_w": 311,
+                    "d_x": 519,
+                    "d_y": 169,
+                    "suggest_name": "fdgdfg"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": "http://192.168.88.204/s/ele-imgs/649/3490.png"
+        },
+        {
+            "testcase_element": "ele_gdfgdfg",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "fgdfgTGWEBCOMMA0",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "gdfgdfg"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": "http://192.168.88.204/s/ele-imgs/649/3491.png"
+        }
+    ]
+}

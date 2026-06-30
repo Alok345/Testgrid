@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_dsfsdf">
+    <element type="id">dsfTGWEBCOMMAIdTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/649/3488.png</element>
+  </locator>
+  <locator name="ele_dfsdf">
+    <element type="class">dfsdfTGWEBCOMMACssClassTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/649/3489.png</element>
+  </locator>
+  <locator name="ele_fdgdfg">
+    <element type="class">fdgfdgTGWEBCOMMACssClassTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/649/3490.png</element>
+  </locator>
+  <locator name="ele_gdfgdfg">
+    <element type="class">fgdfgTGWEBCOMMACssClassTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/649/3491.png</element>
+  </locator>
+</locators>
