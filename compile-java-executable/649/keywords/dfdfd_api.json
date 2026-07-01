@@ -7,7 +7,7 @@
     "params": [],
     "p_static": [],
     "key_path": "users[0].company.address.coordinates.lng.djffdgfdgfdgfdgfdgfdg",
-    "key_type": "string",
     "resp_type": "json",
+    "key_type": "string",
     "timeout": 30
 }
