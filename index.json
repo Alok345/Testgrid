@@ -195,7 +195,7 @@
         {
             "capabilities_id": "94",
             "version_id": "273",
-            "capabilities_keyname": "cvbcvvcb",
+            "capabilities_keyname": "cvbcvvcbfg",
             "capabilities_keyvalue": "sdfsdf"
         }
     ],
@@ -205,9 +205,9 @@
             "user_id": "1",
             "app_id": "147",
             "version_id": "273",
-            "import_statement": "dsfgdsgsdgfdsg; ",
+            "import_statement": "dsfgdsgsdgfdsg; fdg; ",
             "created": "2026-07-01 16:47:28",
-            "updated": "2026-07-01 16:47:28"
+            "updated": "2026-07-01 16:54:57"
         }
     ],
     "abo_maven_dependency": [
@@ -233,11 +233,11 @@
             "app_id": "147",
             "version_id": "273",
             "variable_type": "String",
-            "variable_name": "dfgdfg",
+            "variable_name": "dfgdfgfdgfdg",
             "variable_value": "dfgdfg",
             "gv_category": "global",
             "created": "2026-07-01 16:47:28",
-            "updated": "2026-07-01 16:47:28"
+            "updated": "2026-07-01 16:54:57"
         },
         {
             "variable_id": "226",
@@ -245,11 +245,11 @@
             "app_id": "147",
             "version_id": "273",
             "variable_type": "String",
-            "variable_name": "fdgdfg",
+            "variable_name": "fgfdgdfg",
             "variable_value": "fdgfdgfd",
             "gv_category": "runtime",
             "created": "2026-07-01 16:47:28",
-            "updated": "2026-07-01 16:47:28"
+            "updated": "2026-07-01 16:54:57"
         }
     ],
     "ab_scheduler": [],
