@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-06 17:30:28",
+            "view_updated_date_time": "2026-07-06 17:31:11",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -373,6 +373,30 @@
                             "step_action": "sdfsdf",
                             "created_at": "2026-07-03 17:53:10",
                             "updated_at": "2026-07-03 17:53:10"
+                        }
+                    ],
+                    "cotester_chat_messages": []
+                },
+                {
+                    "tc_id": "103",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "version_module_id": "668",
+                    "tc_name": "dmk1",
+                    "thread_id": null,
+                    "tc_description": "cgp",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-07-06 17:34:14",
+                    "created_at": "2026-07-06 17:34:14",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "247",
+                            "tc_id": "103",
+                            "step_order": "1",
+                            "step_action": "sdfsdf",
+                            "created_at": "2026-07-06 17:34:14",
+                            "updated_at": "2026-07-06 17:34:14"
                         }
                     ],
                     "cotester_chat_messages": []
