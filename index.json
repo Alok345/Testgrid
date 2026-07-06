@@ -8,7 +8,7 @@
         "app_id": "162",
         "version_name": "10.0",
         "version_description": "",
-        "cm_version_module": "668,670",
+        "cm_version_module": "670",
         "platform": "3",
         "ai_modal_id": null,
         "script_type": "3",
@@ -53,7 +53,7 @@
             "parent_id": "0",
             "module_name": "maheshdemo1",
             "module_description": "",
-            "count_resource": "0",
+            "count_resource": "1",
             "cm_resource_pages": "361",
             "cm_default_resource": "",
             "cm_test_function": "494",
@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-06 18:46:38",
+            "view_updated_date_time": "2026-07-06 18:47:55",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -371,6 +371,29 @@
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/162/288/670/testcases/testg.java",
                     "vault_paths": []
+                },
+                {
+                    "tc_id": "1372",
+                    "version_module_id": "670",
+                    "tc_name": "loginCheckfdfdvdfd",
+                    "tc_description": "dsfsdf",
+                    "tc_website_url": null,
+                    "it_json": "",
+                    "cm_step_list": null,
+                    "is_compiled": "1",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "is_draft": "0",
+                    "updated_at": "2026-07-06 18:53:29",
+                    "created_at": "2026-07-06 18:53:29",
+                    "qtest_skip_sync": "0",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/162/288/670/testcases/logincheckfdfdvdfd.java",
+                    "vault_paths": []
                 }
             ],
             "abo_version_proc": [
@@ -427,6 +450,15 @@
                     "version_module_id": "670",
                     "description": "",
                     "action_process": "add_version_module"
+                },
+                {
+                    "id": "2028",
+                    "user_id": "1",
+                    "app_id": "162",
+                    "version_id": "288",
+                    "version_module_id": "670",
+                    "description": "",
+                    "action_process": "add_test_case"
                 }
             ],
             "abo_vm_test_story_manual": [],
