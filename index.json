@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-06 17:43:14",
+            "view_updated_date_time": "2026-07-06 17:44:38",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -448,6 +448,15 @@
                     "version_module_id": "668",
                     "description": "",
                     "action_process": "add_element"
+                },
+                {
+                    "id": "2021",
+                    "user_id": "1",
+                    "app_id": "162",
+                    "version_id": "288",
+                    "version_module_id": "668",
+                    "description": "",
+                    "action_process": "delete_element"
                 }
             ],
             "abo_vm_test_story_manual": [],
@@ -509,17 +518,6 @@
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/668/3515.png"
                         }
                     ]
-                },
-                {
-                    "version_page_id": "360",
-                    "version_module_id": "668",
-                    "cm_resource": "",
-                    "page_name": "yatri",
-                    "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/668/main_360.png",
-                    "git_restore_page_id": "0",
-                    "created": "2026-07-06 17:38:20",
-                    "updated": "2026-07-06 17:38:20",
-                    "abo_version_maps": []
                 },
                 {
                     "version_page_id": 0,
