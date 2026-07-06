@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-06 17:36:07",
+            "view_updated_date_time": "2026-07-06 17:43:14",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -439,6 +439,15 @@
                     "version_module_id": "668",
                     "description": "",
                     "action_process": "edit_test_function"
+                },
+                {
+                    "id": "2020",
+                    "user_id": "1",
+                    "app_id": "162",
+                    "version_id": "288",
+                    "version_module_id": "668",
+                    "description": "",
+                    "action_process": "add_element"
                 }
             ],
             "abo_vm_test_story_manual": [],
