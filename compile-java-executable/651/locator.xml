@@ -4,11 +4,7 @@
     <element type="class">hgTGWEBCOMMACssClassTGWEBCOMMA0</element>
     <element type="image">http://192.168.88.204/s/ele-imgs/651/3526.png</element>
   </locator>
-  <locator name="ele_hfty">
-    <element type="class">gytrtTGWEBCOMMACssClassTGWEBCOMMA0</element>
-    <element type="image">http://192.168.88.204/s/ele-imgs/651/3527.png</element>
-  </locator>
-  <locator name="ele_uyfyf">
-    <element type="class">hgyhTGWEBCOMMACssClassTGWEBCOMMA0</element>
+  <locator name="ele_jhgu">
+    <element type="class">ngygfvhTGWEBCOMMACssClassTGWEBCOMMA0</element>
   </locator>
 </locators>

@@ -21,39 +21,19 @@
             "image_url": "http://192.168.88.204/s/ele-imgs/651/3526.png"
         },
         {
-            "testcase_element": "ele_hfty",
+            "testcase_element": "ele_jhgu",
             "tg_text": "",
             "sibling_selector": [],
             "locator": [
                 {
                     "locators": "class",
-                    "locators_val": "gytrtTGWEBCOMMA0",
-                    "locator_id": "6",
-                    "d_h": 404,
-                    "d_w": 815,
-                    "d_x": 492,
-                    "d_y": 251,
-                    "suggest_name": "hfty"
-                }
-            ],
-            "iframe_and_shadow_root_data": [],
-            "element_type": "class",
-            "image_url": "http://192.168.88.204/s/ele-imgs/651/3527.png"
-        },
-        {
-            "testcase_element": "ele_uyfyf",
-            "tg_text": "",
-            "sibling_selector": [],
-            "locator": [
-                {
-                    "locators": "class",
-                    "locators_val": "hgyhTGWEBCOMMA0",
+                    "locators_val": "ngygfvhTGWEBCOMMA0",
                     "locator_id": "6",
                     "d_h": 0,
                     "d_w": 0,
                     "d_x": 0,
                     "d_y": 0,
-                    "suggest_name": "uyfyf"
+                    "suggest_name": "jhgu"
                 }
             ],
             "iframe_and_shadow_root_data": [],
