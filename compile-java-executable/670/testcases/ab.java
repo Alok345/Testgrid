@@ -27,6 +27,7 @@ public class ab {
 		tg.openBrowser();
 		tg.click("ele_r1h6kqsqpp789");
 		tg.wait(5);
+		tg.wait("ele_r1h6kqsqpp789", ComparisonType.IS_VISIBLE, 3);
 		tg.close();
 	}
 }
