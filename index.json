@@ -29,7 +29,7 @@
         "user_id": "1",
         "os_type": "0",
         "platform": "3",
-        "nob": "1",
+        "nob": "3",
         "application_token": "f25311d932ac1320836bf5e6d1020410",
         "cm_version_id": "1,278,279,280,282,283,284,285,286,287,288,289",
         "is_autoheal": "1",
@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-06 19:47:46",
+            "view_updated_date_time": "2026-07-06 19:52:01",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -436,7 +436,15 @@
                     "updated_at": "2026-07-06 19:13:52",
                     "created_at": "2026-07-06 19:13:52",
                     "qtest_skip_sync": "0",
-                    "test_case_tags": [],
+                    "test_case_tags": [
+                        {
+                            "id": "306",
+                            "version_module_id": "670",
+                            "name": "fghf",
+                            "tc_id": "1374",
+                            "user_id": "1"
+                        }
+                    ],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/162/288/670/testcases/gfgf5.java",
                     "vault_paths": []
