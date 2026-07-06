@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <locators>
-  <locator name="ele_gdfgdfg">
-    <element type="class">trhgfhfghTGWEBCOMMACssClassTGWEBCOMMA0</element>
-    <element type="image">http://192.168.88.204/s/ele-imgs/651/3498.png</element>
+  <locator name="ele_treeo">
+    <element type="class">hgTGWEBCOMMACssClassTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/651/3526.png</element>
   </locator>
-  <locator name="ele_tree2">
-    <element type="class">gfytftTGWEBCOMMACssClassTGWEBCOMMA0</element>
+  <locator name="ele_hfty">
+    <element type="class">gytrtTGWEBCOMMACssClassTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/651/3527.png</element>
+  </locator>
+  <locator name="ele_hjgh">
+    <element type="class">hftTGWEBCOMMACssClassTGWEBCOMMA0</element>
   </locator>
 </locators>
