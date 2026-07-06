@@ -8,7 +8,7 @@
     <element type="class">gytrtTGWEBCOMMACssClassTGWEBCOMMA0</element>
     <element type="image">http://192.168.88.204/s/ele-imgs/651/3527.png</element>
   </locator>
-  <locator name="ele_hjgh">
-    <element type="class">hftTGWEBCOMMACssClassTGWEBCOMMA0</element>
+  <locator name="ele_uyfyf">
+    <element type="class">hgyhTGWEBCOMMACssClassTGWEBCOMMA0</element>
   </locator>
 </locators>

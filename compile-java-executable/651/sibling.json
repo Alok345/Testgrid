@@ -41,19 +41,19 @@
             "image_url": "http://192.168.88.204/s/ele-imgs/651/3527.png"
         },
         {
-            "testcase_element": "ele_hjgh",
+            "testcase_element": "ele_uyfyf",
             "tg_text": "",
             "sibling_selector": [],
             "locator": [
                 {
                     "locators": "class",
-                    "locators_val": "hftTGWEBCOMMA0",
+                    "locators_val": "hgyhTGWEBCOMMA0",
                     "locator_id": "6",
                     "d_h": 0,
                     "d_w": 0,
                     "d_x": 0,
                     "d_y": 0,
-                    "suggest_name": "hjgh"
+                    "suggest_name": "uyfyf"
                 }
             ],
             "iframe_and_shadow_root_data": [],
