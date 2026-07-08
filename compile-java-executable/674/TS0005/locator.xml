@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_treeo">
+    <element type="class">hgTGWEBCOMMACssClassTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/651/3526.png</element>
+  </locator>
+  <locator name="ele_jhgu">
+    <element type="class">ngygfvhTGWEBCOMMACssClassTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/651/3530.png</element>
+  </locator>
+  <locator name="ele_njgvhg">
+    <element type="class">ngyTGWEBCOMMACssClassTGWEBCOMMA0</element>
+  </locator>
+</locators>
