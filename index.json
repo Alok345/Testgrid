@@ -228,6 +228,18 @@
             "version_id": "300",
             "capabilities_keyname": "cvbcvb",
             "capabilities_keyvalue": "cvbvc"
+        },
+        {
+            "capabilities_id": "101",
+            "version_id": "300",
+            "capabilities_keyname": "cvbcv",
+            "capabilities_keyvalue": "bcvbcvb"
+        },
+        {
+            "capabilities_id": "102",
+            "version_id": "300",
+            "capabilities_keyname": "dfg",
+            "capabilities_keyvalue": "dfg"
         }
     ],
     "abo_import_statement": [],
