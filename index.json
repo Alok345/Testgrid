@@ -240,6 +240,12 @@
             "version_id": "300",
             "capabilities_keyname": "dfg",
             "capabilities_keyvalue": "dfg"
+        },
+        {
+            "capabilities_id": "103",
+            "version_id": "300",
+            "capabilities_keyname": "dsfsdf",
+            "capabilities_keyvalue": "sdfsd"
         }
     ],
     "abo_import_statement": [],
