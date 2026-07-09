@@ -1,0 +1,80 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_logintofac715",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//body/div[@id='mount_0_0_US']/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div[1]/div[1]/div[1]/div[1]",
+                    "locator_id": "3",
+                    "d_h": 448,
+                    "d_w": 650,
+                    "d_x": 695,
+                    "d_y": 171,
+                    "suggest_name": "logintofac715"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='mount_0_0_US']/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div",
+                    "d_h": 448,
+                    "d_w": 650,
+                    "d_x": 695,
+                    "d_y": 171.5,
+                    "suggest_name": "logintofac715"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div.x1n2onr6.x1ja2u2z.x9f619.x78zum5.xdt5ytf.x193iq5w.x1l7klhg.x1iyjqo2.xs83m0k.x2lwn1j.x70ekce.xp3wktp",
+                    "d_h": 448,
+                    "d_w": 650,
+                    "d_x": 695,
+                    "d_y": 171.5,
+                    "suggest_name": "logintofac715"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div",
+                    "d_h": 448,
+                    "d_w": 650,
+                    "d_x": 695,
+                    "d_y": 171.5,
+                    "suggest_name": "logintofac715"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "x1n2onr6 x1ja2u2z x9f619 x78zum5 xdt5ytf x193iq5w x1l7klhg x1iyjqo2 xs83m0k x2lwn1j x70ekce xp3wktpTGWEBCOMMA19",
+                    "d_h": 448,
+                    "d_w": 650,
+                    "d_x": 695,
+                    "d_y": 171.5,
+                    "suggest_name": "logintofac715"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.204/s/ele-imgs/681/3543.png"
+        },
+        {
+            "testcase_element": "ele_element057",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "div#mount_0_0_US > div > div > div > div > div > div > div > div > div > div > div > div > div > div > div > div > div > svg > pathTGWEBCOMMA0",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 46,
+                    "d_y": 46,
+                    "suggest_name": "element057"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        }
+    ]
+}

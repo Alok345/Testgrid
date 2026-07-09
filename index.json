@@ -222,7 +222,14 @@
             ]
         }
     ],
-    "abo_version_capabilities": [],
+    "abo_version_capabilities": [
+        {
+            "capabilities_id": "100",
+            "version_id": "300",
+            "capabilities_keyname": "cvbcvb",
+            "capabilities_keyvalue": "cvbvc"
+        }
+    ],
     "abo_import_statement": [],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
