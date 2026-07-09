@@ -20,15 +20,12 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class vivo {
+public class fdgfdg {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void vivo() {
+	public void fdgfdg() {
 		tg.openBrowser();
-				tg.wait("ele_logintofac715", ComparisonType.IS_VISIBLE);
-				tg.click("ele_logintofac715", 1);
-				tg.wait("ele_element057", ComparisonType.IS_VISIBLE);
-				tg.click("ele_element057", 1);
+		tg.wait(7);
 		tg.close();
 	}
 }

@@ -1,8 +1,8 @@
 {
     "status": true,
     "message": "Version data loaded successfully.",
-    "version_id": 300,
-    "user_id": 1,
+    "version_id": "300",
+    "user_id": "1",
     "abo_version": {
         "version_id": "300",
         "app_id": "167",
@@ -25,13 +25,13 @@
         "app_id": "167",
         "project_id": "73",
         "name": "nokia_8aad25e35bb3fd97",
-        "display_name": "nokiaa",
+        "display_name": "nokiaav",
         "user_id": "1",
         "os_type": "0",
         "platform": "3",
         "nob": "0",
         "application_token": "8f6726495d34a18609606491a5397fbd",
-        "cm_version_id": "1,300,301,302",
+        "cm_version_id": "1,300,301,302,303,304,305",
         "is_autoheal": "1",
         "is_autoheal_autofixed": "0",
         "is_testcase_retries": "0",
@@ -44,7 +44,7 @@
         "project_restriction_type": "1",
         "is_delete": "0",
         "created": "2026-07-09 18:14:59",
-        "updated": "2026-07-09 18:16:55"
+        "updated": "2026-07-09 22:09:28"
     },
     "abo_version_module": [
         {
@@ -54,14 +54,14 @@
             "module_name": "motorolla",
             "module_description": "",
             "count_resource": "0",
-            "cm_resource_pages": "378",
+            "cm_resource_pages": "378,380,381,382",
             "cm_default_resource": "",
-            "cm_test_function": "",
-            "cm_test_case": "1425",
+            "cm_test_function": "513,516",
+            "cm_test_case": "1430,1431,1432",
             "cm_test_case_ai": "",
-            "cm_network": "",
+            "cm_network": "56,57",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-09 19:27:57",
+            "view_updated_date_time": "2026-07-09 23:26:11",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -72,13 +72,36 @@
             "vault_secret_path": null,
             "abo_vm_test_case": [
                 {
-                    "tc_id": "1425",
+                    "tc_id": "1430",
                     "version_module_id": "681",
-                    "tc_name": "vivo",
-                    "tc_description": "demo",
-                    "tc_website_url": "https://www.facebook.com",
+                    "tc_name": "dsfsdf",
+                    "tc_description": "sdfsdf",
+                    "tc_website_url": null,
                     "it_json": "",
-                    "cm_step_list": "",
+                    "cm_step_list": "205",
+                    "is_compiled": "1",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "is_draft": "1",
+                    "updated_at": "2026-07-09 20:44:15",
+                    "created_at": "2026-07-09 20:44:15",
+                    "qtest_skip_sync": "0",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/167/300/681/testcases/dsfsdf.java",
+                    "vault_paths": []
+                },
+                {
+                    "tc_id": "1431",
+                    "version_module_id": "681",
+                    "tc_name": "dsfsdfsdf",
+                    "tc_description": "sdfsdf",
+                    "tc_website_url": null,
+                    "it_json": "",
+                    "cm_step_list": "206",
                     "is_compiled": "1",
                     "xray_type_of_issue_id": null,
                     "xray_type_of_issue_key": null,
@@ -86,18 +109,142 @@
                     "is_auto": "0",
                     "is_ai_generated": "0",
                     "is_draft": "0",
-                    "updated_at": "2026-07-09 19:30:20",
-                    "created_at": "2026-07-09 18:15:31",
-                    "qtest_skip_sync": "0",
+                    "updated_at": "2026-07-09 20:44:34",
+                    "created_at": "2026-07-09 20:44:34",
+                    "qtest_skip_sync": "1",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/167/300/681/testcases/vivo.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/167/300/681/testcases/dsfsdfsdf.java",
+                    "vault_paths": []
+                },
+                {
+                    "tc_id": "1432",
+                    "version_module_id": "681",
+                    "tc_name": "fdgfdg",
+                    "tc_description": "dfgdfg",
+                    "tc_website_url": null,
+                    "it_json": "",
+                    "cm_step_list": "207",
+                    "is_compiled": "1",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "is_draft": "1",
+                    "updated_at": "2026-07-09 20:50:10",
+                    "created_at": "2026-07-09 20:50:10",
+                    "qtest_skip_sync": "1",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/167/300/681/testcases/fdgfdg.java",
                     "vault_paths": []
                 }
             ],
-            "abo_version_proc": [],
-            "abo_vm_test_case_manual": [],
-            "abo_vm_network_assert": [],
+            "abo_version_proc": [
+                {
+                    "proc_id": "513",
+                    "version_module_id": "681",
+                    "proc_name": "dfsfsdf",
+                    "proc_description": "sfsfsf",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "is_ai_generated": "0",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_draft": "0",
+                    "has_parameters": "0",
+                    "param_data": "[]",
+                    "return_type": null,
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/167/300/681/testfunctions/dfsfsdf.java",
+                    "vault_paths": []
+                },
+                {
+                    "proc_id": "516",
+                    "version_module_id": "681",
+                    "proc_name": "vbcvbcv",
+                    "proc_description": "bcvbcvb",
+                    "cm_step_list": "",
+                    "is_compiled": "1",
+                    "is_ai_generated": "0",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_draft": "1",
+                    "has_parameters": "0",
+                    "param_data": "[]",
+                    "return_type": null,
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/167/300/681/testfunctions/vbcvbcv.java",
+                    "vault_paths": []
+                }
+            ],
+            "abo_vm_test_case_manual": [
+                {
+                    "tc_id": "123",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "version_module_id": "681",
+                    "tc_name": "dfgdf",
+                    "thread_id": null,
+                    "tc_description": "gdfg",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-07-09 19:55:55",
+                    "created_at": "2026-07-09 19:55:55",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "451",
+                            "tc_id": "123",
+                            "step_order": "1",
+                            "step_action": "retert",
+                            "created_at": "2026-07-09 19:55:55",
+                            "updated_at": "2026-07-09 19:55:55"
+                        }
+                    ],
+                    "cotester_chat_messages": []
+                }
+            ],
+            "abo_vm_network_assert": [
+                {
+                    "na_id": "56",
+                    "version_module_id": "681",
+                    "na_name": "dfgdfg",
+                    "na_description": "dfgdfg",
+                    "cm_step_list": "75",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "abo_na_steps": [
+                        {
+                            "na_step_id": "75",
+                            "na_id": "56",
+                            "keyword_id": "6",
+                            "order": "0",
+                            "param1": "INT",
+                            "param2": "dfgdfg",
+                            "param3": "NAPARAM_1",
+                            "param4": "",
+                            "param5": ""
+                        }
+                    ]
+                },
+                {
+                    "na_id": "57",
+                    "version_module_id": "681",
+                    "na_name": "fghg",
+                    "na_description": "hfghfgh",
+                    "cm_step_list": "76",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "abo_na_steps": [
+                        {
+                            "na_step_id": "76",
+                            "na_id": "57",
+                            "keyword_id": "6",
+                            "order": "0",
+                            "param1": "INT",
+                            "param2": "dfgdfg",
+                            "param3": "NAPARAM_1",
+                            "param4": "",
+                            "param5": ""
+                        }
+                    ]
+                }
+            ],
             "abo_update": [
                 {
                     "id": "2108",
@@ -125,91 +272,94 @@
                     "version_module_id": "681",
                     "description": "",
                     "action_process": "edit_test_case"
+                },
+                {
+                    "id": "2120",
+                    "user_id": "1",
+                    "app_id": "167",
+                    "version_id": "300",
+                    "version_module_id": "681",
+                    "description": "",
+                    "action_process": "add_network_assert"
+                },
+                {
+                    "id": "2121",
+                    "user_id": "1",
+                    "app_id": "167",
+                    "version_id": "300",
+                    "version_module_id": "681",
+                    "description": "",
+                    "action_process": "edit_network_assert"
+                },
+                {
+                    "id": "2122",
+                    "user_id": "1",
+                    "app_id": "167",
+                    "version_id": "300",
+                    "version_module_id": "681",
+                    "description": "",
+                    "action_process": "delete_network_assert"
+                },
+                {
+                    "id": "2123",
+                    "user_id": "1",
+                    "app_id": "167",
+                    "version_id": "300",
+                    "version_module_id": "681",
+                    "description": "",
+                    "action_process": "delete_test_case"
+                },
+                {
+                    "id": "2124",
+                    "user_id": "1",
+                    "app_id": "167",
+                    "version_id": "300",
+                    "version_module_id": "681",
+                    "description": "",
+                    "action_process": "add_test_function"
+                },
+                {
+                    "id": "2125",
+                    "user_id": "1",
+                    "app_id": "167",
+                    "version_id": "300",
+                    "version_module_id": "681",
+                    "description": "",
+                    "action_process": "delete_test_function"
+                },
+                {
+                    "id": "2126",
+                    "user_id": "1",
+                    "app_id": "167",
+                    "version_id": "300",
+                    "version_module_id": "681",
+                    "description": "",
+                    "action_process": "edit_test_function"
                 }
             ],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
-                    "version_page_id": "378",
+                    "version_page_id": "381",
                     "version_module_id": "681",
                     "cm_resource": "",
-                    "page_name": "Facebook",
-                    "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/681/main_378.png",
+                    "page_name": "dsfsdfsdf",
+                    "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/681/main_381.png",
                     "git_restore_page_id": "0",
-                    "created": "2026-07-09 18:16:00",
-                    "updated": "2026-07-09 18:16:00",
-                    "abo_version_maps": [
-                        {
-                            "maps_id": "3543",
-                            "version_page_id": "378",
-                            "page_name": "Facebook",
-                            "version_module_id": "681",
-                            "element_name": "ele_logintofac715",
-                            "element_display_name": "logintofac715",
-                            "element_image_url": "http://192.168.88.204/s/ele-imgs/681/3543.png",
-                            "element_path_rid": "//body/div[@id='mount_0_0_US']/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div[1]/div[1]/div[1]/div[1]",
-                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//body/div[@id='mount_0_0_US']/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div[1]/div[1]/div[1]/div[1]\",\"d_h\":448,\"d_w\":650,\"d_x\":695,\"d_y\":171.5,\"suggest_name\":\"logintofac715\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='mount_0_0_US']/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div\",\"d_h\":448,\"d_w\":650,\"d_x\":695,\"d_y\":171.5,\"suggest_name\":\"logintofac715\"},{\"locators\":\"CSS selector\",\"locators_val\":\"div.x1n2onr6.x1ja2u2z.x9f619.x78zum5.xdt5ytf.x193iq5w.x1l7klhg.x1iyjqo2.xs83m0k.x2lwn1j.x70ekce.xp3wktp\",\"d_h\":448,\"d_w\":650,\"d_x\":695,\"d_y\":171.5,\"suggest_name\":\"logintofac715\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div\",\"d_h\":448,\"d_w\":650,\"d_x\":695,\"d_y\":171.5,\"suggest_name\":\"logintofac715\"},{\"locators\":\"Tag\",\"locators_val\":\"div\",\"d_h\":448,\"d_w\":650,\"d_x\":695,\"d_y\":171.5,\"suggest_name\":\"logintofac715\"},{\"locators\":\"class\",\"locators_val\":\"x1n2onr6 x1ja2u2z x9f619 x78zum5 xdt5ytf x193iq5w x1l7klhg x1iyjqo2 xs83m0k x2lwn1j x70ekce xp3wktpTGWEBCOMMA19\",\"d_h\":448,\"d_w\":650,\"d_x\":695,\"d_y\":171.5,\"suggest_name\":\"logintofac715\"}]",
-                            "correct_autoheal_data": "[{\"locators\":\"Xpath\",\"locators_val\":\"//body/div[@id='mount_0_0_US']/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div[1]/div[1]/div[1]/div[1]\",\"d_h\":448,\"d_w\":650,\"d_x\":695,\"d_y\":171.5,\"suggest_name\":\"logintofac715\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='mount_0_0_US']/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div\",\"d_h\":448,\"d_w\":650,\"d_x\":695,\"d_y\":171.5,\"suggest_name\":\"logintofac715\"},{\"locators\":\"CSS selector\",\"locators_val\":\"div.x1n2onr6.x1ja2u2z.x9f619.x78zum5.xdt5ytf.x193iq5w.x1l7klhg.x1iyjqo2.xs83m0k.x2lwn1j.x70ekce.xp3wktp\",\"d_h\":448,\"d_w\":650,\"d_x\":695,\"d_y\":171.5,\"suggest_name\":\"logintofac715\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div\",\"d_h\":448,\"d_w\":650,\"d_x\":695,\"d_y\":171.5,\"suggest_name\":\"logintofac715\"},{\"locators\":\"Tag\",\"locators_val\":\"div\",\"d_h\":448,\"d_w\":650,\"d_x\":695,\"d_y\":171.5,\"suggest_name\":\"logintofac715\"},{\"locators\":\"class\",\"locators_val\":\"x1n2onr6 x1ja2u2z x9f619 x78zum5 xdt5ytf x193iq5w x1l7klhg x1iyjqo2 xs83m0k x2lwn1j x70ekce xp3wktpTGWEBCOMMA19\",\"d_h\":448,\"d_w\":650,\"d_x\":695,\"d_y\":171.5,\"suggest_name\":\"logintofac715\"}]",
-                            "shadow_data": "",
-                            "sibling_selector": "\"\"",
-                            "tg_text": "",
-                            "iframe_and_shadow_root_data": "",
-                            "is_iframe_and_shadow_root": "0",
-                            "only_iframe_data": "0",
-                            "only_shadow_root_data": "0",
-                            "web_context_element": "0",
-                            "element_path_rid_ios": "",
-                            "element_xcui_element": "",
-                            "element_displayname": "&quot;undefined&quot;",
-                            "element_index": "",
-                            "element_parent_element": "",
-                            "element_path_rid_type": "3",
-                            "element_path_rid_ios_type": "",
-                            "d_x": "695",
-                            "d_y": "171.5",
-                            "d_w": "650",
-                            "d_h": "448",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
-                            "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/681/3543.png"
-                        },
-                        {
-                            "maps_id": "3544",
-                            "version_page_id": "378",
-                            "page_name": "Facebook",
-                            "version_module_id": "681",
-                            "element_name": "ele_element057",
-                            "element_display_name": "element057",
-                            "element_image_url": null,
-                            "element_path_rid": "div#mount_0_0_US > div > div > div > div > div > div > div > div > div > div > div > div > div > div > div > div > div > svg > pathTGWEBCOMMA0",
-                            "autoheal_elements": "[{\"locators\":\"CSS selector\",\"locators_val\":\"div#mount_0_0_US > div > div > div > div > div > div > div > div > div > div > div > div > div > div > div > div > div > svg > pathTGWEBCOMMA0\",\"d_x\":46,\"d_y\":46,\"suggest_name\":\"element057\"},{\"locators\":\"Tag\",\"locators_val\":\"path\",\"d_x\":46,\"d_y\":46,\"suggest_name\":\"element057\"}]",
-                            "correct_autoheal_data": "[{\"locators\":\"CSS selector\",\"locators_val\":\"div#mount_0_0_US > div > div > div > div > div > div > div > div > div > div > div > div > div > div > div > div > div > svg > pathTGWEBCOMMA0\",\"d_x\":46,\"d_y\":46,\"suggest_name\":\"element057\"},{\"locators\":\"Tag\",\"locators_val\":\"path\",\"d_x\":46,\"d_y\":46,\"suggest_name\":\"element057\"}]",
-                            "shadow_data": "",
-                            "sibling_selector": "\"\"",
-                            "tg_text": "",
-                            "iframe_and_shadow_root_data": "",
-                            "is_iframe_and_shadow_root": "0",
-                            "only_iframe_data": "0",
-                            "only_shadow_root_data": "0",
-                            "web_context_element": "0",
-                            "element_path_rid_ios": "",
-                            "element_xcui_element": "",
-                            "element_displayname": "&quot;undefined&quot;",
-                            "element_index": "",
-                            "element_parent_element": "",
-                            "element_path_rid_type": "3",
-                            "element_path_rid_ios_type": "",
-                            "d_x": "46",
-                            "d_y": "46",
-                            "d_w": "",
-                            "d_h": "",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
-                            "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/681/3544.png"
-                        }
-                    ]
+                    "created": "2026-07-09 21:01:59",
+                    "updated": "2026-07-09 21:01:59",
+                    "abo_version_maps": []
+                },
+                {
+                    "version_page_id": "382",
+                    "version_module_id": "681",
+                    "cm_resource": "",
+                    "page_name": "dxsdfds",
+                    "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/681/main_382.png",
+                    "git_restore_page_id": "0",
+                    "created": "2026-07-09 21:02:08",
+                    "updated": "2026-07-09 21:02:08",
+                    "abo_version_maps": []
                 },
                 {
                     "version_page_id": 0,
@@ -223,12 +373,6 @@
         }
     ],
     "abo_version_capabilities": [
-        {
-            "capabilities_id": "100",
-            "version_id": "300",
-            "capabilities_keyname": "cvbcvb",
-            "capabilities_keyvalue": "cvbvc"
-        },
         {
             "capabilities_id": "101",
             "version_id": "300",
