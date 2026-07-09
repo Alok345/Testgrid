@@ -374,12 +374,6 @@
     ],
     "abo_version_capabilities": [
         {
-            "capabilities_id": "101",
-            "version_id": "300",
-            "capabilities_keyname": "cvbcv",
-            "capabilities_keyvalue": "bcvbcvb"
-        },
-        {
             "capabilities_id": "102",
             "version_id": "300",
             "capabilities_keyname": "dfg",
