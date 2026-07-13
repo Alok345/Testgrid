@@ -20,10 +20,10 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class tc001rzrename {
+public class tc001rz {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc001rzrename() {
+	public void tc001rz() {
 		tg.openBrowser();
 		tg.click("ele_username444", 1);
 		tg.type("ele_username444", "dasfasdf");
@@ -31,6 +31,7 @@ public class tc001rzrename {
 		tg.click("ele_password264", 1);
 		tg.typeEncrypted("ele_password264", "nImTfyNQZ+GLA1pGz6NvWw==:MTIzNDU2Nzg5MTAxMTEyMQ==");
 		tg.click("ele_submit135", 1);
+		tg.takeFullScreenshot();
 		tg.close();
 	}
 }
