@@ -1,7 +1,7 @@
 {
     "status": true,
     "message": "Version data loaded successfully.",
-    "version_id": "301",
+    "version_id": 301,
     "user_id": 1,
     "abo_version": {
         "version_id": "301",
@@ -16,7 +16,7 @@
         "is_delete": "0",
         "xray_project_version": "",
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "167",
@@ -76,7 +76,7 @@
                     "version_module_id": "684",
                     "tc_name": "loginCheck",
                     "tc_description": "Demo",
-                    "tc_website_url": null,
+                    "tc_website_url": "",
                     "it_json": "",
                     "cm_step_list": "208",
                     "is_compiled": "1",
@@ -85,8 +85,8 @@
                     "is_deleted": "0000-00-00 00:00:00",
                     "is_auto": "0",
                     "is_ai_generated": "0",
-                    "is_draft": "1",
-                    "updated_at": "2026-07-13 17:04:39",
+                    "is_draft": "0",
+                    "updated_at": "2026-07-13 17:55:38",
                     "created_at": "2026-07-13 17:04:39",
                     "qtest_skip_sync": "0",
                     "test_case_tags": [],
@@ -140,11 +140,53 @@
             ]
         }
     ],
-    "abo_version_capabilities": [],
-    "abo_import_statement": [],
+    "abo_version_capabilities": [
+        {
+            "capabilities_id": "105",
+            "version_id": "301",
+            "capabilities_keyname": "isLogin",
+            "capabilities_keyvalue": "true"
+        }
+    ],
+    "abo_import_statement": [
+        {
+            "import_statement_id": "121",
+            "user_id": "1",
+            "app_id": "167",
+            "version_id": "301",
+            "import_statement": "fdgfgh; ",
+            "created": "2026-07-13 17:55:38",
+            "updated": "2026-07-13 17:55:38"
+        }
+    ],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
-    "abo_global_variable": [],
+    "abo_global_variable": [
+        {
+            "variable_id": "236",
+            "user_id": "1",
+            "app_id": "167",
+            "version_id": "301",
+            "variable_type": "String",
+            "variable_name": "isFalse",
+            "variable_value": "False",
+            "gv_category": "global",
+            "created": "2026-07-13 17:55:38",
+            "updated": "2026-07-13 17:55:38"
+        },
+        {
+            "variable_id": "237",
+            "user_id": "1",
+            "app_id": "167",
+            "version_id": "301",
+            "variable_type": "String",
+            "variable_name": "fgh",
+            "variable_value": "fgh",
+            "gv_category": "runtime",
+            "created": "2026-07-13 17:55:38",
+            "updated": "2026-07-13 17:55:38"
+        }
+    ],
     "ab_scheduler": [],
     "domain": "192.168.88.204"
 }
