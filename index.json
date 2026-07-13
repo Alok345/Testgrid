@@ -25,7 +25,7 @@
         "app_id": "167",
         "project_id": "73",
         "name": "nokia_8aad25e35bb3fd97",
-        "display_name": "nokiaav",
+        "display_name": "nokia",
         "user_id": "1",
         "os_type": "0",
         "platform": "3",
@@ -44,7 +44,7 @@
         "project_restriction_type": "1",
         "is_delete": "0",
         "created": "2026-07-09 18:14:59",
-        "updated": "2026-07-09 22:09:28"
+        "updated": "2026-07-13 16:48:50"
     },
     "abo_version_module": [
         {
@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "56,57",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-09 23:54:22",
+            "view_updated_date_time": "2026-07-13 16:56:46",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -86,7 +86,7 @@
                     "is_auto": "0",
                     "is_ai_generated": "0",
                     "is_draft": "1",
-                    "updated_at": "2026-07-09 20:44:15",
+                    "updated_at": "2026-07-13 16:56:46",
                     "created_at": "2026-07-09 20:44:15",
                     "qtest_skip_sync": "0",
                     "test_case_tags": [],
