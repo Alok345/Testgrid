@@ -19,13 +19,9 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-@Listeners(TestListener.class);
-public class logincheck {
+class vishalmegamart {
 
-	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void logincheck() {
-		tg.openBrowser();
+	public static void vishalmegamart() {
 		tg.wait(6);
-		tg.close();
 	}
 }

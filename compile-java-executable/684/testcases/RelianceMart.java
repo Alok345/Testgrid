@@ -20,12 +20,12 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class logincheck {
+public class reliancemart {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void logincheck() {
+	public void reliancemart() {
 		tg.openBrowser();
-		tg.wait(6);
+		tg.wait(8);
 		tg.close();
 	}
 }
