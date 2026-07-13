@@ -26,7 +26,6 @@ public class dsfsdf {
 	public void dsfsdf() {
 		tg.openBrowser();
 		tg.wait(7);
-		tg.wait(9);
 		tg.close();
 	}
 }

@@ -19,10 +19,9 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-class vbcvbcvs {
+class vbcvbcv {
 
-	public static void vbcvbcvs() {
+	public static void vbcvbcv() {
 		tg.wait(8);
-		tg.wait("ele_bytappings796", ComparisonType.IS_VISIBLE);
 	}
 }
