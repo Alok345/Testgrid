@@ -20,18 +20,13 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class tc001rz {
+public class tc02 {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc001rz() {
+	public void tc02() {
 		tg.openBrowser();
-		tg.click("ele_username444", 1);
-		tg.type("ele_username444", "dasfasdf");
-		tg.click("ele_password660", 1);
-		tg.click("ele_password264", 1);
-		tg.typeEncrypted("ele_password264", "nImTfyNQZ+GLA1pGz6NvWw==:MTIzNDU2Nzg5MTAxMTEyMQ==");
-		tg.click("ele_submit135", 1);
-		tg.takeFullScreenshot();
+		tg.wait(2);
+		tg.type("ele_username066", "Vault_HashiCorp_gjk@@secret/data/govind");
 		tg.close();
 	}
 }
