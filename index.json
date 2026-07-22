@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "345",
-    "user_id": 72,
+    "user_id": 0,
     "abo_version": {
         "version_id": "345",
         "app_id": "176",
@@ -16,7 +16,7 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "176",
@@ -99,35 +99,7 @@
             "abo_version_proc": [],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "2942",
-                    "user_id": "72",
-                    "app_id": "176",
-                    "version_id": "345",
-                    "version_module_id": "770",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "2943",
-                    "user_id": "72",
-                    "app_id": "176",
-                    "version_id": "345",
-                    "version_module_id": "770",
-                    "description": "",
-                    "action_process": "add_test_case"
-                },
-                {
-                    "id": "2964",
-                    "user_id": "72",
-                    "app_id": "176",
-                    "version_id": "345",
-                    "version_module_id": "770",
-                    "description": "",
-                    "action_process": "delete_test_case"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -145,7 +117,20 @@
     "abo_import_statement": [],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
-    "abo_global_variable": [],
+    "abo_global_variable": [
+        {
+            "variable_id": "1099",
+            "user_id": "72",
+            "app_id": "176",
+            "version_id": "345",
+            "variable_type": "int",
+            "variable_name": "dfgdfg",
+            "variable_value": "58",
+            "gv_category": "global",
+            "created": "2026-07-22 23:07:23",
+            "updated": "2026-07-22 23:07:23"
+        }
+    ],
     "ab_scheduler": [],
     "domain": "192.168.88.204"
 }
