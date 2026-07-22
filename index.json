@@ -62,7 +62,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-22 20:57:01",
+            "view_updated_date_time": "2026-07-22 22:16:58",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -183,10 +183,10 @@
             "version_id": "351",
             "variable_type": "String",
             "variable_name": "dfdfgfhfgh",
-            "variable_value": "vcbcvbc",
+            "variable_value": "vcbcvbcdsds",
             "gv_category": "global",
             "created": "2026-07-22 20:43:05",
-            "updated": "2026-07-22 22:14:28"
+            "updated": "2026-07-22 22:15:31"
         }
     ],
     "ab_scheduler": [],
