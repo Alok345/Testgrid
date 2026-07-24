@@ -11,5 +11,6 @@
   </locator>
   <locator name="ele_ai">
     <element type="class">aTGWEBCOMMACssClassTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/775/71828.png</element>
   </locator>
 </locators>
