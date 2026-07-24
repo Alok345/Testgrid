@@ -1,0 +1,8 @@
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6a63c7c3e5f45_7283/appium-web/src/test/java/dfgdfgcopy.java:25: error: no suitable method found for tapByImage(String,double,String)
+        tg.tapByImage("ele_r1h6kqsqpp584", 0.65, "5");
+          ^
+    method tg.tapByImage(String,double) is not applicable
+      (actual and formal argument lists differ in length)
+    method tg.tapByImage(String) is not applicable
+      (actual and formal argument lists differ in length)
+1 error
