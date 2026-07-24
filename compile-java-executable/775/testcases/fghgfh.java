@@ -25,10 +25,10 @@ public class fghgfh {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void fghgfh() {
 		tg.openBrowser();
-				tg.wait("ele_r1h6kqsqpp584", ComparisonType.IS_VISIBLE);
-				tg.click("ele_r1h6kqsqpp584", 1);
-				tg.wait("ele_r1h6kqsqpp584", ComparisonType.IS_VISIBLE);
-				tg.type("ele_r1h6kqsqpp584", "dfdsf");
+		tg.wait("ele_r1h6kqsqpp584", ComparisonType.IS_VISIBLE);
+		tg.click("ele_r1h6kqsqpp584", 1);
+		tg.wait("ele_r1h6kqsqpp584", ComparisonType.IS_VISIBLE);
+		tg.type("ele_r1h6kqsqpp584", "dfdsf");
 		tg.close();
 	}
 }
