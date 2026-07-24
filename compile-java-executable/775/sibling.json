@@ -13,7 +13,7 @@
                     "d_w": 516,
                     "d_x": 762,
                     "d_y": 238,
-                    "suggest_name": "r1h6kqsqpp584"
+                    "suggest_name": "ele_r1h6kqsqpp584"
                 },
                 {
                     "locators": "Xpath",
@@ -22,7 +22,7 @@
                     "d_w": 516,
                     "d_x": 762,
                     "d_y": 238.484375,
-                    "suggest_name": "r1h6kqsqpp584"
+                    "suggest_name": "ele_r1h6kqsqpp584"
                 },
                 {
                     "locators": "id",
@@ -31,7 +31,7 @@
                     "d_w": 516,
                     "d_x": 762,
                     "d_y": 238.484375,
-                    "suggest_name": "r1h6kqsqpp584"
+                    "suggest_name": "ele_r1h6kqsqpp584"
                 },
                 {
                     "locators": "CSS selector",
@@ -40,7 +40,7 @@
                     "d_w": 516,
                     "d_x": 762,
                     "d_y": 238.484375,
-                    "suggest_name": "r1h6kqsqpp584"
+                    "suggest_name": "ele_r1h6kqsqpp584"
                 },
                 {
                     "locators": "Xpath",
@@ -49,7 +49,7 @@
                     "d_w": 516,
                     "d_x": 762,
                     "d_y": 238.484375,
-                    "suggest_name": "r1h6kqsqpp584"
+                    "suggest_name": "ele_r1h6kqsqpp584"
                 },
                 {
                     "locators": "class",
@@ -58,12 +58,32 @@
                     "d_w": 516,
                     "d_x": 762,
                     "d_y": 238.484375,
-                    "suggest_name": "r1h6kqsqpp584"
+                    "suggest_name": "ele_r1h6kqsqpp584"
                 }
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
             "image_url": "http://192.168.88.204/s/ele-imgs/775/71825.png"
+        },
+        {
+            "testcase_element": "ele_ai",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "aTGWEBCOMMA0",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ai"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": ""
         }
     ]
 }

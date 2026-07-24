@@ -54,15 +54,15 @@
             "parent_id": "0",
             "module_name": "gfh",
             "module_description": "",
-            "count_resource": "1",
+            "count_resource": "2",
             "cm_resource_pages": "2179",
-            "cm_default_resource": "",
+            "cm_default_resource": "71828",
             "cm_test_function": "",
             "cm_test_case": "21",
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-24 17:32:58",
+            "view_updated_date_time": "2026-07-24 17:33:44",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -126,6 +126,24 @@
                     "version_module_id": "775",
                     "description": "",
                     "action_process": "edit_test_case"
+                },
+                {
+                    "id": "3005",
+                    "user_id": "1",
+                    "app_id": "180",
+                    "version_id": "350",
+                    "version_module_id": "775",
+                    "description": "",
+                    "action_process": "edit_element"
+                },
+                {
+                    "id": "3006",
+                    "user_id": "1",
+                    "app_id": "180",
+                    "version_id": "350",
+                    "version_module_id": "775",
+                    "description": "",
+                    "action_process": "add_element"
                 }
             ],
             "abo_vm_test_story_manual": [],
@@ -180,10 +198,46 @@
                 {
                     "version_page_id": 0,
                     "version_module_id": "775",
-                    "cm_resource": "",
+                    "cm_resource": "71828",
                     "page_name": "Manually Added Resources ",
                     "image_url": "",
-                    "abo_version_maps": []
+                    "abo_version_maps": [
+                        {
+                            "maps_id": "71828",
+                            "version_page_id": "0",
+                            "page_name": null,
+                            "version_module_id": "775",
+                            "element_name": "ele_ai",
+                            "element_display_name": "test01",
+                            "element_image_url": null,
+                            "element_path_rid": "aTGWEBCOMMACssClassTGWEBCOMMA0",
+                            "autoheal_elements": "[]",
+                            "correct_autoheal_data": null,
+                            "shadow_data": null,
+                            "sibling_selector": null,
+                            "tg_text": null,
+                            "iframe_and_shadow_root_data": null,
+                            "is_iframe_and_shadow_root": "false",
+                            "only_iframe_data": "false",
+                            "only_shadow_root_data": "false",
+                            "web_context_element": "1",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "undefined",
+                            "element_displayname": "",
+                            "element_index": "undefined",
+                            "element_parent_element": "undefined",
+                            "element_path_rid_type": "6",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "0",
+                            "d_y": "0",
+                            "d_w": "0",
+                            "d_h": "0",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/775/71828.png"
+                        }
+                    ]
                 }
             ]
         }
