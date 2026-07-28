@@ -560,16 +560,16 @@
     "abo_external_jar": [],
     "abo_global_variable": [
         {
-            "variable_id": "1102",
+            "variable_id": "1103",
             "user_id": "1",
             "app_id": "180",
             "version_id": "350",
             "variable_type": "String",
-            "variable_name": "isFalse",
-            "variable_value": "true",
-            "gv_category": "global",
-            "created": "2026-07-28 17:33:40",
-            "updated": "2026-07-28 17:48:26"
+            "variable_name": "dsfdf",
+            "variable_value": "sdfsdf",
+            "gv_category": "runtime",
+            "created": "2026-07-28 19:23:08",
+            "updated": "2026-07-28 19:23:08"
         }
     ],
     "ab_scheduler": [],
