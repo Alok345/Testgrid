@@ -99,4 +99,7 @@
     <element type="xpath">//div[4]/iframe</element>
     <element type="image">http://192.168.88.204/s/ele-imgs/775/71860.png</element>
   </locator>
+  <locator name="ele_d">
+    <element type="class">0TGWEBCOMMACssClassTGWEBCOMMA0</element>
+  </locator>
 </locators>
