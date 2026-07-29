@@ -501,6 +501,203 @@
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
             "image_url": "http://192.168.88.204/s/ele-imgs/775/71851.png"
+        },
+        {
+            "testcase_element": "ele_presentati471",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//body/div[@id='rc-anchor-container']/div/div/div/div/span[@id='recaptcha-anchor']/div[1]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "presentati471"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//span[@id='recaptcha-anchor']/div",
+                    "d_h": 28,
+                    "d_w": 28,
+                    "d_x": 13,
+                    "d_y": 22.5,
+                    "suggest_name": "presentati471"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div.recaptcha-checkbox-border",
+                    "d_h": 28,
+                    "d_w": 28,
+                    "d_x": 13,
+                    "d_y": 22.5,
+                    "suggest_name": "presentati471"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//span/div",
+                    "d_h": 28,
+                    "d_w": 28,
+                    "d_x": 13,
+                    "d_y": 22.5,
+                    "suggest_name": "presentati471"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "recaptcha-checkbox-borderTGWEBCOMMA1",
+                    "d_h": 28,
+                    "d_w": 28,
+                    "d_x": 13,
+                    "d_y": 22.5,
+                    "suggest_name": "presentati471"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_recaptcha408",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//iframe[@title='reCAPTCHA']",
+                    "locator_id": "3",
+                    "d_h": 78,
+                    "d_w": 304,
+                    "d_x": 28,
+                    "d_y": 68,
+                    "suggest_name": "recaptcha408"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='recaptcha']/div/div/iframe",
+                    "d_h": 78,
+                    "d_w": 304,
+                    "d_x": 28,
+                    "d_y": 68,
+                    "suggest_name": "recaptcha408"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "iframe[name=\"a-v0uj9gaw7cgv\"]",
+                    "d_h": 78,
+                    "d_w": 304,
+                    "d_x": 28,
+                    "d_y": 68,
+                    "suggest_name": "recaptcha408"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//iframe",
+                    "d_h": 78,
+                    "d_w": 304,
+                    "d_x": 28,
+                    "d_y": 68,
+                    "suggest_name": "recaptcha408"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.204/s/ele-imgs/775/71858.png"
+        },
+        {
+            "testcase_element": "ele_top100left621",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//td[@id='4']//div//div//img",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "top100left621"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//td[@id='4']/div/div/img",
+                    "d_h": 378,
+                    "d_w": 378,
+                    "d_x": 11,
+                    "d_y": 131,
+                    "suggest_name": "top100left621"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#4 > div.rc-image-tile-target > div.rc-image-tile-wrapper > img.rc-image-tile-33",
+                    "d_h": 378,
+                    "d_w": 378,
+                    "d_x": 11,
+                    "d_y": 131,
+                    "suggest_name": "top100left621"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//tr[2]/td[2]/div/div/img",
+                    "d_h": 378,
+                    "d_w": 378,
+                    "d_x": 11,
+                    "d_y": 131,
+                    "suggest_name": "top100left621"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "rc-image-tile-33TGWEBCOMMA5",
+                    "d_h": 378,
+                    "d_w": 378,
+                    "d_x": 11,
+                    "d_y": 131,
+                    "suggest_name": "top100left621"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_recaptchac752",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//iframe[@title='recaptcha challenge expires in two minutes']",
+                    "locator_id": "3",
+                    "d_h": 580,
+                    "d_w": 400,
+                    "d_x": 80,
+                    "d_y": 11,
+                    "suggest_name": "recaptchac752"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "iframe[name=\"c-v0uj9gaw7cgv\"]",
+                    "d_h": 580,
+                    "d_w": 400,
+                    "d_x": 80,
+                    "d_y": 11,
+                    "suggest_name": "recaptchac752"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[4]/iframe",
+                    "d_h": 580,
+                    "d_w": 400,
+                    "d_x": 80,
+                    "d_y": 11,
+                    "suggest_name": "recaptchac752"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.204/s/ele-imgs/775/71860.png"
         }
     ]
 }

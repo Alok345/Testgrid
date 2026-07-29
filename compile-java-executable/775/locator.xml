@@ -72,4 +72,31 @@
     <element type="class">x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2</element>
     <element type="image">http://192.168.88.204/s/ele-imgs/775/71851.png</element>
   </locator>
+  <locator name="ele_presentati471">
+    <element type="xpath">//body/div[@id='rc-anchor-container']/div/div/div/div/span[@id='recaptcha-anchor']/div[1]</element>
+    <element type="xpath">//span[@id='recaptcha-anchor']/div</element>
+    <element type="css">div.recaptcha-checkbox-border</element>
+    <element type="xpath">//span/div</element>
+    <element type="class">recaptcha-checkbox-borderTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_recaptcha408">
+    <element type="xpath">//iframe[@title='reCAPTCHA']</element>
+    <element type="xpath">//div[@id='recaptcha']/div/div/iframe</element>
+    <element type="css">iframe[name="a-v0uj9gaw7cgv"]</element>
+    <element type="xpath">//iframe</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/775/71858.png</element>
+  </locator>
+  <locator name="ele_top100left621">
+    <element type="xpath">//td[@id='4']//div//div//img</element>
+    <element type="xpath">//td[@id='4']/div/div/img</element>
+    <element type="css">#4 &gt; div.rc-image-tile-target &gt; div.rc-image-tile-wrapper &gt; img.rc-image-tile-33</element>
+    <element type="xpath">//tr[2]/td[2]/div/div/img</element>
+    <element type="class">rc-image-tile-33TGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_recaptchac752">
+    <element type="xpath">//iframe[@title='recaptcha challenge expires in two minutes']</element>
+    <element type="css">iframe[name="c-v0uj9gaw7cgv"]</element>
+    <element type="xpath">//div[4]/iframe</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/775/71860.png</element>
+  </locator>
 </locators>
