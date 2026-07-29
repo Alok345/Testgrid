@@ -57,12 +57,12 @@
             "count_resource": "29",
             "cm_resource_pages": "2179,2185,2186,2187,2188,2197",
             "cm_default_resource": "71828",
-            "cm_test_function": "7617,7618",
+            "cm_test_function": "7618",
             "cm_test_case": "21,41,43",
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-29 17:52:11",
+            "view_updated_date_time": "2026-07-29 17:53:42",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -143,22 +143,6 @@
                 }
             ],
             "abo_version_proc": [
-                {
-                    "proc_id": "7617",
-                    "version_module_id": "775",
-                    "proc_name": "tgSurat",
-                    "proc_description": "3",
-                    "cm_step_list": "",
-                    "is_compiled": "0",
-                    "is_ai_generated": "0",
-                    "is_deleted": "0000-00-00 00:00:00",
-                    "is_draft": "0",
-                    "has_parameters": "0",
-                    "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
-                    "return_type": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/180/350/775/testfunctions/tgsurat.java",
-                    "vault_paths": []
-                },
                 {
                     "proc_id": "7618",
                     "version_module_id": "775",
@@ -241,6 +225,15 @@
                     "version_module_id": "775",
                     "description": "",
                     "action_process": "edit_test_function"
+                },
+                {
+                    "id": "3036",
+                    "user_id": "1",
+                    "app_id": "180",
+                    "version_id": "350",
+                    "version_module_id": "775",
+                    "description": "",
+                    "action_process": "delete_test_function"
                 }
             ],
             "abo_vm_test_story_manual": [],
