@@ -20,12 +20,12 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class dsfsdf {
+public class nmv {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void dsfsdf() {
+	public void nmv() {
 		tg.openBrowser();
-		tg.wait(6);
+		tg.wait(5);
 		tg.close();
 	}
 }
