@@ -26,6 +26,7 @@ public class nmv {
 	public void nmv() {
 		tg.openBrowser();
 		tg.wait(5);
+		tg.wait(8);
 		tg.close();
 	}
 }
