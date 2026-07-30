@@ -199,14 +199,60 @@
                     "jira_id": "0",
                     "version_module_id": "775",
                     "tc_name": "0",
-                    "thread_id": null,
+                    "thread_id": "cotester_thread_6a6a9aae4c3c819798678387115264ff0d509c21ebe728e2",
                     "tc_description": "",
                     "is_deleted": "0000-00-00 00:00:00",
-                    "updated_at": "2026-07-30 00:26:28",
+                    "updated_at": "2026-07-30 00:28:47",
                     "created_at": "2026-07-30 00:26:28",
                     "figma_id": "0",
-                    "abo_vm_test_case_manual_steps": [],
-                    "cotester_chat_messages": []
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "7",
+                            "tc_id": "128",
+                            "step_order": "1",
+                            "step_action": "Enter a valid username in the username field.",
+                            "created_at": "2026-07-30 00:28:47",
+                            "updated_at": "2026-07-30 00:28:47"
+                        },
+                        {
+                            "step_id": "8",
+                            "tc_id": "128",
+                            "step_order": "2",
+                            "step_action": "Enter the correct password in the password field.",
+                            "created_at": "2026-07-30 00:28:47",
+                            "updated_at": "2026-07-30 00:28:47"
+                        },
+                        {
+                            "step_id": "9",
+                            "tc_id": "128",
+                            "step_order": "3",
+                            "step_action": "Click the Login button.",
+                            "created_at": "2026-07-30 00:28:47",
+                            "updated_at": "2026-07-30 00:28:47"
+                        }
+                    ],
+                    "cotester_chat_messages": [
+                        {
+                            "id": "43",
+                            "tc_id": "128",
+                            "thread_id": "",
+                            "user_id": "1",
+                            "message": "write a login steps for any login page",
+                            "message_type": "sender",
+                            "created_at": "2026-07-30 00:28:28",
+                            "updated_at": "2026-07-30 00:28:28"
+                        },
+                        {
+                            "id": "44",
+                            "tc_id": "128",
+                            "thread_id": "",
+                            "user_id": "1",
+                            "message": "Test Case: 1\n\nTest Case Title: Successful Login with Valid Credentials\nModule: Login Page\nPriority: High\n\nPreconditions: \n- User is on the login page.\n- User has a valid username and password.\n\nTest Steps:\n1. Enter a valid username in the username field.\n2. Enter the correct password in the password field.\n3. Click the Login button.\n\nExpected Result:\n- User is redirected to the dashboard or homepage.\n- A welcome message with the user's name is displayed.\n- No error messages are shown.",
+                            "message_type": "replier",
+                            "created_at": "2026-07-30 00:28:34",
+                            "updated_at": "2026-07-30 00:28:34"
+                        }
+                    ]
                 }
             ],
             "abo_vm_network_assert": [
